@@ -1,1 +1,3 @@
 why do you need a repo?
+
+this is lesson 1
